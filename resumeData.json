@@ -1,0 +1,168 @@
+{
+  "main": {
+    "name": "Dustin Murry",
+    "occupation": " Software Engineer",
+    "description": " currently teaching students as a ",
+    "employer": "Computer Science Tutor",
+    "jobDescription": " use my expertise to help students write code in various languages developing high-quality, user-friendly, scalable and bug-free software. I am also skilled with data structures, algorithms, object-oriented concepts, and design patterns",
+    "image": "profile_pic.jpg",
+    "bio": "I am hard-working in nature and have been my whole life. I worked toward my Doctorate in Physical Therapy and even went back to school to get the general understanding of the underlying concepts of computer science. I am always maturing as a competent programmer and continue to explore new ways to challenge and improve my skillset.",
+    "contactmessage": "Want me to join your team? You want me to part of something great? Have any question? Please contact me either by email, phone, or by the form below.",
+    "email": "dmurry290@gmail.com",
+    "phone": "732-768-1366",
+    "address": {
+      "street": "Throckmorton Ave",
+      "city": "Red Bank",
+      "state": "NJ",
+      "zip": "07701"
+    },
+    "website": "http://dust-murr.github.io",
+    "resumedownload": "resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dustin-murry/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/dust-murr",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have, over the years, tried to diverse myself in many technologies whether old or new and these are the ones that have fairly interested me",
+    "education": [
+      {
+        "school": "Brookdale Community College",
+        "degree": "Associates in Computer Science",
+        "graduated": "Expected May 2022",
+        "description": "Even though I had previous experience working on computers figuring out how to program and code using different technologies, I still wanted to try the formal educational route. Here is where I started my educational journey toward learning the underlying theory, concepts, and science behind the world as a Software Engineer. It was also here where I discovered the appreciation of not just how but why I do what I do as a Software Engineer."
+      },
+      {
+        "school": "Drexel University",
+        "degree": "Doctor of Physical Therapy",
+        "graduated": "April 2015",
+        "description": "I attended Drexel for my doctorate in physical therapy. I've always been an athlete and interested in the make up of health and fitness, thus physical therapy was the answer. It was here where I developed a sense of gratification to help others in a way I never thought I could. I graduated in 2015 and worked in many fields since then."
+      },
+
+      {
+        "school": "University of Massachusetts - Amherst",
+        "degree": "Bachelors in Science",
+        "graduated": "May 2010",
+        "description": "I attended UMass - Amherst for 4 years where I obtained my Bachelor in Science. Here is where I learned the important tools of hard-work and staying motivated in any challenge I faced. I navigated through many courses such as Biology, Chemistry, Physics, and Computer Science, really learning a lot of myself and how passionate I really was toward Computer Science. Even though I chose the path toward physical therapy, I have always had a love for computer science utilizing data structure and algorithms."
+      }
+    ],
+    "work": [
+      {
+        "company": "Computer Science Tutor",
+        "title": "Software Engineer",
+        "years": "January 2021 - Current",
+        "description": "• Taught programming languages: Java, Python, MySQL, JavaScript, HTML, CSS, Assembly.\n• Explained complex concepts using easy-to-comprehend terminology.\n• Served as computer science tutor for Brookdale students.\n• Coached students on computer science topics in person and through online portal.\n• Organized tutoring environment to promote productivity and learning.\n• Developed training handouts and study materials.\n• Promoted dedication to learning through encouraging, energetic approach.\n• Assessed student abilities and established learning goals.\n• Used engaging teaching methods to help students achieve success in computer science.\n• Built productive relationships with students creating goals and customized plans.\n• Assisted students in finding useful study methods to enhance academic performance."
+      },
+      {
+        "company": "Memorial Sloan Kettering Cancer Center",
+        "title": "Oncology Physical Therapist",
+        "years": "January 2018 - Current",
+        "description": "• Maintained organized documentation and patient files utilizing Epic Systems.\n• Reviewed physician referrals and patient medical records through Epic Systems.\n• Taught patients and families about self-care treatments and exercises.\n• Initiated appropriate intervention programs for patients suffering from cancer.\n• Evaluated and assessed patients to establish measurable goals and promote restoration.\n• Identified and properly documented patient goals, and evaluated progress.\n• Rendered highest quality of care when interacting with patients and families.\n• Assisted patients with physical movements to help restore function and lessen pain.\n• Prescribed and demonstrated in-home exercises and therapies.\n• Planned for discharges and communicated findings and progress in detailed reports.\n• Customized conventional physical therapy techniques to meet specific individual needs.\n• Collaborated with practitioners by recording and sharing physical therapy outcomes.\n• Facilitated ADLs and assisted patients with functional mobility to increase quality of life.\n• Administered massage as well as heat, ice, and electrical stimulation as part of therapy.\n• Identified and executed opportunities for performance improvement within service areas."
+      },
+      {
+        "company": "TheraCare",
+        "title": "Early Intervention Physical Therapist",
+        "years": "October 2015 - January 2018",
+        "description": "• Provided home-based therapy services for infants/toddlers with developmental delays.\n• Measured attention, cognition, body mechanics, balance, and mobility.\n• Evaluated results of assessments to diagnose areas for improvement in each child.\n• Communicated with interdisciplinary members to identify other areas for improvement.\n• Communicated/educated parents and caregivers to integrate strategies into daily routines.\n• Developed a plan of care for each child that established therapy strategies and techniques."
+      },
+      {
+        "company": "Brill Physical Therapy",
+        "title": "Othropedic Physical Therapist",
+        "years": "November 2015 - June 2016",
+        "description": "• Treated patients with varied diagnoses that included orthopedic/neurological conditions.\n• Performed treatments that included joint mobs, muscle re-education, and modalities.\n• Participated in inter-disciplinary team meetings to provide an efficient rehab plan.\n• Excelled in ability to individualize treatment plans and PT techniques."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "image": "java.jpg"
+      },
+      {
+        "name": "Python",
+        "image": "python.jpg"
+      },
+      {
+        "name": "MySQL",
+        "image": "MySQL.jpg"
+      },
+      {
+        "name": "SQL",
+        "image": "sql.jpg"
+      },
+      {
+        "name": "JavaScript",
+        "image": "javascript.jpg"
+      },
+      {
+        "name": "JSON",
+        "image": "json.jpg"
+      },
+      {
+        "name": "jQuery",
+        "image": "jquery.jpg"
+      },
+      {
+        "name": "CSS3",
+        "image": "css.jpg"
+      },
+      {
+        "name": "HTML5",
+        "image": "html.jpg"
+      },
+      {
+        "name": "Git",
+        "image": "git.jpg"
+      },
+      {
+        "name": "React JS",
+        "image": "react.jpg"
+      },
+      {
+        "name": "Node JS",
+        "image": "node.jpg"
+      },
+      {
+        "name": "Assembly",
+        "image": "assembly.jpg"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Website",
+        "category": "My React JS based personal website: JavaScript, HTML, CSS",
+        "image": "mypage.jpg",
+        "url": "https://dust-murr.github.io"
+      },
+      {
+        "title": "Virtual Mouse",
+        "category": "Controlling mouse virtually by tracking hand using webcam: Computer Vision and Python.",
+        "image": "mouse.jpg",
+        "url": "https://github.com/dust-murr/Python-Programming/tree/main/Virtual%20Hand%20Mouse"
+      },
+      {
+        "title": "Virtual Image Drag/Drop",
+        "category": "Dragging and dropping images virtually by tracking hand using webcam: Computer Vision and Python.",
+        "image": "image.jpg",
+        "url": "https://github.com/dust-murr/Python-Programming/tree/main/Virtual%20Hand%20Image%20Drag"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "All parts should go together without forcing. You must remember that the parts you are reassembling were disassembled by you. Therefore, if you can’t get them together again, there must be a reason. By all means, do not use a hammer.",
+        "user": "IBM Manual, 1925"
+      }
+    ]
+  }
+}
