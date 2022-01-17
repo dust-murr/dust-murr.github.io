@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Dustin Murry",
-    "occupation": " Software Engineer",
-    "description": " currently teaching students as a ",
-    "employer": "Computer Science Tutor",
-    "jobDescription": " use my expertise to help students write code in various languages developing high-quality, user-friendly, scalable and bug-free software. I am also skilled with data structures, algorithms, object-oriented concepts, and design patterns",
+    "occupation": " Director of Marketing and Development",
+    "description": " currently responsible for the development and execution of integrated marketing plans and content to meet and exceed the business goals of",
+    "employer": " Stay Active In-Home Physical, Occupational & Speech Therapy Services.",
+    "jobDescription": "to develop and foster the creation of fresh and new content on Stay Active website and social media channels to ensure the development and delivery of the most effective content aligned to the needs of the business.",
     "image": "profile_pic.jpg",
     "bio": "I am hard-working in nature and have been my whole life. I worked toward my Doctorate in Physical Therapy and even went back to school to get the general understanding of the underlying concepts of computer science. I am always maturing as a competent programmer and continue to explore new ways to challenge and improve my skillset.",
     "contactmessage": "Want me to join your team? You want me to part of something great? Have any question? Please contact me either by email, phone, or by the form below.",
@@ -55,6 +55,12 @@
       }
     ],
     "work": [
+      {
+        "company": "Stay Active Physical Therapy Services",
+        "title": "Director of Marketing and Development",
+        "years": "January 2021 - Current",
+        "description": "• Responsible for the development and execution of integrated marketing plans and content to meet and exceed business goals.\n• Worked in an agile environment, being part of a multi-disciplinary team working on the design, development, execution and implementation of front and back-end applications. \n• Worked collaboratively across marketing and other departments in a fast-paced and rapidly growing physical therapy market. \n• Created integrated marketing plans that helped drive awareness, demand, and overall market leadership. \n• Developed and fostered the creation of fresh and new content on Stay Active website and social media channels to ensure the development and delivery of the most effective content aligned to the needs of the business. \n• Collaborated with leadership and strategy teams across marketing functions to overcome challenges that threatened successful project implementation. \n• Used clear logical communication by being a strong senior leader in internal and client interactions."
+      },
       {
         "company": "Computer Science Tutor",
         "title": "Software Engineer",
