@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Dustin Murry",
-    "occupation": " Director of Marketing and Development",
-    "description": " currently responsible for the development and execution of integrated marketing plans and content to meet and exceed the business goals of",
-    "employer": " Stay Active In-Home Physical, Occupational & Speech Therapy Services.",
-    "jobDescription": "to develop and foster the creation of fresh and new content on Stay Active website and social media channels to ensure the development and delivery of the most effective content aligned to the needs of the business",
+    "occupation": " EPIC Credentialed Trainer",
+    "description": " currently responsible for providing staff education on the EPIC Electronic Medical Record application working for",
+    "employer": " RWJBarnabas Health Corporate Services.",
+    "jobDescription": "to deliver education virtually training all hospial employees of RWJBarnabas Health hospital system in the EPIC healthcare record system. My duties include developing the training curriculum, developing training materials, and delivering end-user training for the EPIC system. My primary goal is to ensure that employees have the skills that they need to optimize system utilization and provide the best level of patient care possible.",
     "image": "profile_pic.jpg",
     "bio": "I am hard-working in nature and have been my whole life. I worked toward my Doctorate in Physical Therapy and even went back to school to get the general understanding of the underlying concepts of computer science. I am always maturing as a competent programmer and continue to explore new ways to challenge and improve my skillset.",
     "contactmessage": "Want me to join your team? You want me to part of something great? Have any question? Please contact me either by email, phone, or by the form below.",
@@ -56,22 +56,28 @@
     ],
     "work": [
       {
+        "company": "RWJBarnabas Health Corporate Services",
+        "title": "EPIC Credentialed Trainer",
+        "years": "June 2022 - Current",
+        "description": "• Provide staff education on the EPIC Electronic Medical Record application.\n• Deliver education virtually training all hospial employees of RWJBarnabas Health hospital system in the EPIC healthcare record system.\n• Develop the training curriculum, training materials, and deliver end-user training for the EPIC system.\n• Ensure that employees have the skills that they need to optimize system utilization and provide the best level of patient care possible."
+      },
+      {
+        "company": "Memorial Sloan Kettering Cancer Center",
+        "title": "Oncology Physical Therapist",
+        "years": "January 2018 - June 2022",
+        "description": "• Maintained organized documentation and patient files utilizing Epic Systems.\n• Reviewed physician referrals and patient medical records through Epic Systems.\n• Taught patients and families about self-care treatments and exercises.\n• Initiated appropriate intervention programs for patients suffering from cancer.\n• Evaluated and assessed patients to establish measurable goals and promote restoration.\n• Identified and properly documented patient goals, and evaluated progress.\n• Rendered highest quality of care when interacting with patients and families.\n• Assisted patients with physical movements to help restore function and lessen pain.\n• Prescribed and demonstrated in-home exercises and therapies.\n• Planned for discharges and communicated findings and progress in detailed reports.\n• Customized conventional physical therapy techniques to meet specific individual needs.\n• Collaborated with practitioners by recording and sharing physical therapy outcomes.\n• Facilitated ADLs and assisted patients with functional mobility to increase quality of life.\n• Administered massage as well as heat, ice, and electrical stimulation as part of therapy.\n• Identified and executed opportunities for performance improvement within service areas."
+      },
+      {
         "company": "Stay Active Physical Therapy Services",
-        "title": "Director of Marketing and Development",
-        "years": "July 2021 - Current",
+        "title": "Assistant to Director of Marketing and Development",
+        "years": "July 2021 - May 2022",
         "description": "• Responsible for the development and execution of integrated marketing plans and content to meet and exceed business goals.\n• Worked in an agile environment, being part of a multi-disciplinary team working on the design, development, execution and implementation of front and back-end applications. \n• Worked collaboratively across marketing and other departments in a fast-paced and rapidly growing physical therapy market. \n• Created integrated marketing plans that helped drive awareness, demand, and overall market leadership. \n• Developed and fostered the creation of fresh and new content on Stay Active website and social media channels to ensure the development and delivery of the most effective content aligned to the needs of the business. \n• Collaborated with leadership and strategy teams across marketing functions to overcome challenges that threatened successful project implementation. \n• Used clear logical communication by being a strong senior leader in internal and client interactions."
       },
       {
         "company": "Computer Science Tutor",
         "title": "Software Engineer",
-        "years": "January 2021 - Current",
+        "years": "January 2021 - May 2022",
         "description": "• Taught programming languages: Java, Python, MySQL, JavaScript, HTML, CSS, Assembly.\n• Explained complex concepts using easy-to-comprehend terminology.\n• Served as computer science tutor for Brookdale students.\n• Coached students on computer science topics in person and through online portal.\n• Organized tutoring environment to promote productivity and learning.\n• Developed training handouts and study materials.\n• Promoted dedication to learning through encouraging, energetic approach.\n• Assessed student abilities and established learning goals.\n• Used engaging teaching methods to help students achieve success in computer science.\n• Built productive relationships with students creating goals and customized plans.\n• Assisted students in finding useful study methods to enhance academic performance."
-      },
-      {
-        "company": "Memorial Sloan Kettering Cancer Center",
-        "title": "Oncology Physical Therapist",
-        "years": "January 2018 - Current",
-        "description": "• Maintained organized documentation and patient files utilizing Epic Systems.\n• Reviewed physician referrals and patient medical records through Epic Systems.\n• Taught patients and families about self-care treatments and exercises.\n• Initiated appropriate intervention programs for patients suffering from cancer.\n• Evaluated and assessed patients to establish measurable goals and promote restoration.\n• Identified and properly documented patient goals, and evaluated progress.\n• Rendered highest quality of care when interacting with patients and families.\n• Assisted patients with physical movements to help restore function and lessen pain.\n• Prescribed and demonstrated in-home exercises and therapies.\n• Planned for discharges and communicated findings and progress in detailed reports.\n• Customized conventional physical therapy techniques to meet specific individual needs.\n• Collaborated with practitioners by recording and sharing physical therapy outcomes.\n• Facilitated ADLs and assisted patients with functional mobility to increase quality of life.\n• Administered massage as well as heat, ice, and electrical stimulation as part of therapy.\n• Identified and executed opportunities for performance improvement within service areas."
       },
       {
         "company": "TheraCare",
@@ -87,6 +93,10 @@
       }
     ],
     "skills": [
+      {
+        "name": "EPIC",
+        "image": "epic.jpg"
+      },
       {
         "name": "Java",
         "image": "java.jpg"
@@ -116,6 +126,10 @@
         "image": "jquery.jpg"
       },
       {
+        "name": "Bootstrap",
+        "image": "bootstrap.jpg"
+      },
+      {
         "name": "CSS3",
         "image": "css.jpg"
       },
@@ -134,6 +148,10 @@
       {
         "name": "Node JS",
         "image": "node.jpg"
+      },
+      {
+        "name": "Django",
+        "image": "django.jpg"
       },
       {
         "name": "Assembly",
